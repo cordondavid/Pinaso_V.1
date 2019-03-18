@@ -10,7 +10,7 @@ from signal import pause
 
 #def client_connect():
 mpu9250 = FaBo9Axis_MPU9250.MPU9250()
-print("Funciona Cojonudamente")
+print("Funciona")
 
 try:
     while True:
